@@ -1,0 +1,18 @@
+OLD MAID - A VICTORIAN PARLOR GAME
+Version @VERSION@
+==================================
+
+Developed & Published by ... Ironite
+Game Design ................ Ironite
+Card Art & Illustration .... Ironite
+Music ...................... Ironite
+  "Tea at Four", "The Parlour Rag",
+  "Lamplight Nocturne", "Sunday Promenade"
+Sound Effects .............. Ironite
+Programming ................ Ironite
+
+Typeface
+  IM Fell English and IM Fell English SC, by Igino Marini.
+  Used under the SIL Open Font License 1.1 (see OFL.txt).
+
+Copyright (c) 2026 Ironite. All rights reserved.
