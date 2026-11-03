@@ -1,3 +1,2 @@
 dist/
-app/web/
-app/*.syso
+*.syso

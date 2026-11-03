@@ -14,5 +14,9 @@ Programming ................ Ironite
 Typeface
   IM Fell English and IM Fell English SC, by Igino Marini.
   Used under the SIL Open Font License 1.1 (see OFL.txt).
+  Fleuron and music-note ornaments from DejaVu Sans (free license).
+
+Built with
+  Ebitengine, by Hajime Hoshi and contributors (Apache License 2.0).
 
 Copyright (c) 2026 Ironite. All rights reserved.
